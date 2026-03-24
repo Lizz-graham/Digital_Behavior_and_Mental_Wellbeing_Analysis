@@ -2,6 +2,7 @@
 
 ## Objective
 This project analyzes how digital behavior relates to mental well-being metrics such as focus, mood, and anxiety.
+Check out my Google Colab notebook for more details: https://colab.research.google.com/drive/1eO_y8QGUFR_IQ6yLVdpMdaRnGfgNGo8L?usp=sharing
 
 ## Key points covered
 - Screen Time & Anxiety
