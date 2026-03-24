@@ -29,41 +29,39 @@ This is sample set taken from Kaggle.com, and shows data from 500 participants a
 - digital_wellbeing_score Calculated score based on focus, sleep, and anxiety levels; higher value represents better well-being
 
 ## 1. What's the coorelation between anxiety and screen time?
-
+#### Average correlation = 0.003
 Little correlation between anxiety levels and daily screen time. This may be because there can be many external factors that contribute to anxiety levels.
-Average correlation = 0.003
+
 <img width="563" height="433" alt="image" src="https://github.com/user-attachments/assets/8c154d00-cdb4-42cd-851f-397d5dc8393b" />
 
 ## 2. Does daily screen time relate sleep hours?
+#### Average correlation = 0.021
 
 There isn't a strong correlation between daily screen time and how much sleep participants' get.
-Average correlation = 0.021
 
 <img width="563" height="433" alt="image" src="https://github.com/user-attachments/assets/e15f039a-9584-42e9-89a0-d8f6827c4d46" />
 
 ## 3. Does higher social media usage relate to higher anxiety?
+#### Average correlation = 0.311
 
 Moderate coorelation, anxiety does uptick with low social media usage and stays consistently high with higher use(not increasing, but steady)
-Average correlation = 0.311
 
 <img width="371" height="105" alt="Screenshot 2026-03-23 at 9 45 24 PM" src="https://github.com/user-attachments/assets/e37a9b0e-d5b8-4c12-997f-8e3ca6915e55" />
 
 <img width="563" height="433" alt="image" src="https://github.com/user-attachments/assets/0c8710fd-d77a-45ae-bed9-7f7f19738bcb" />
 
 ## 4. Does more screen time = lower focus? 
-
+#### Average correlation = -0.306
 There's a negative coorelation here, where increased screentime is moderately related to lower focus. However, when looking at this data vi:a bins, we can see there is a slight trend here where where focus slightly decreases as screen time increases.
-Average correlation = -0.306
 
 <img width="362" height="153" alt="Screenshot 2026-03-23 at 9 46 31 PM" src="https://github.com/user-attachments/assets/77ccb016-0682-4a96-ad9a-3f085be551b9" />
 
 <img width="567" height="433" alt="image" src="https://github.com/user-attachments/assets/17976f4a-dc94-4484-8158-305625e23bb4" />
 
 ## 5. Do participants with more screen time have worse mood?
+#### Average correlation = -0.306
 
 Mood score slightly increases with lower screen time. Beyond this threshold, mood score drops slightly and doesn't increase consistently with more screen time.
-
-Average correlation = 0.073
 
 <img width="365" height="152" alt="Screenshot 2026-03-23 at 9 47 17 PM" src="https://github.com/user-attachments/assets/12bbd8ed-4694-453c-bd61-0e7e07aa28fe" />
 
